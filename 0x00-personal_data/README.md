@@ -1,5 +1,3 @@
-# Personal Data
-
 The tasks herein is for the protection of user personal data.
 
 ## Tasks To Complete
